@@ -179,4 +179,12 @@ Here i have added advanced validation to the fields.
 I tried to edit values for Title, Genre, Rating, Price
 https://localhost:7129/Movies
 
+1520
+Part10
 
+
+
+1415
+Here i have created the github account using my college ID.
+I explored the github account tabs such as code, issue, pull requests, action, projects, security, settings etc.
+Now i created a clone repository from my local to the git and created 
