@@ -181,10 +181,14 @@ https://localhost:7129/Movies
 
 1520
 Part10
-
+In this part i examined the code the details and delete methods and tried these are working fine in the site.
+confirmed all are working fine.
+https://localhost:7129/Movies/Delete/15
 
 
 1415
 Here i have created the github account using my college ID.
 I explored the github account tabs such as code, issue, pull requests, action, projects, security, settings etc.
-Now i created a clone repository from my local to the git and created 
+Now i created a clone repository from my local to the git and confirmed the git account and commit the data to push to git account.
+Here i see that account is created as private and i cahnged the account to public from settings, account visibility.
+Then checked and confirmed the account is accessible from outside.
