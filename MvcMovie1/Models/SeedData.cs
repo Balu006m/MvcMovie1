@@ -24,36 +24,46 @@ public static class SeedData
                 new Movie
                 {
                     Title = "Around the world in 80 days",
-                    ReleaseDate = DateTime.Parse("1989-2-12"),
-                    Genre = "Romantic Comedy",
+                    ReleaseDate = DateTime.Parse("1956-10-17"),
+                    Genre = "Adventure",
                     Rating = "R",
                     Price = 7.99M
                 },
                 new Movie
                 {
-                    Title = "Ghostbusters ",
-                    ReleaseDate = DateTime.Parse("1984-3-13"),
-                    Genre = "Comedy",
+                    Title = "Annabelle",
+                    ReleaseDate = DateTime.Parse("2014-03-10"),
+                    Genre = "Horror",
                     Rating = "R",
                     Price = 8.99M
                 },
                 new Movie
                 {
-                    Title = "Ghostbusters 2",
-                    ReleaseDate = DateTime.Parse("1986-2-23"),
-                    Genre = "Comedy",
+                    Title = "The Dark Knight",
+                    ReleaseDate = DateTime.Parse("2008-07-18"),
+                    Genre = "Action",
                     Rating = "R",
                     Price = 9.99M
                 },
                 new Movie
                 {
-                    Title = "Rio Bravo",
-                    ReleaseDate = DateTime.Parse("1959-4-15"),
-                    Genre = "Western",
+                    Title = "Liar Liar",
+                    ReleaseDate = DateTime.Parse("1997-03-21"),
+                    Genre = "Comedy",
                     Rating = "R",
-                    Price = 3.99M
+                    Price = 10.00M
+                },
+                new Movie
+                {
+                    Title = "Into the Wild",
+                    ReleaseDate = DateTime.Parse("2007-05-25"),
+                    Genre = "Travel",
+                    Rating = "R",
+                    Price = 9.00M
                 }
             );
+           
+
             context.SaveChanges();
         }
     }
